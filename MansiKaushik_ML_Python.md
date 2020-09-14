@@ -34,4 +34,4 @@ I am familiar with the following topics:
 - No prior knowledge, a complete fresher.
 - OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
 - OpenCV is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image processing, video capture and analysis including features like face detection and object detection.
-- Since OpenCV is one among the important fields in Python, I'd like to gain more knowledge about it.
+- Since OpenCV is one of the important fields in Python, I'd like to gain more knowledge about it.
